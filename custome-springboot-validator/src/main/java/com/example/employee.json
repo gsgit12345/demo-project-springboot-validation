@@ -1,0 +1,9 @@
+{
+  "empId":1234,
+  "firstName":"ram",
+  "lastName":"pandey",
+  "doj":"16-12-2024",
+  "dept": "hr",
+  "email": "gsgmca@gmail.com",
+  "accountType":"saving"
+}
